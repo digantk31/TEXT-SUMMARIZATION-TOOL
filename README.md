@@ -21,3 +21,29 @@ Beyond core functionality, the project also emphasizes user experience. The comm
 Finally, the project’s deliverables will be version-controlled and hosted on GitHub, providing full transparency and collaborative potential. The repository will contain the main script, sample articles, a `requirements.txt` file listing dependencies, and illustrative examples of summary output. Future enhancements may include a web-based interface, support for batch processing of multiple files, and integration with cloud-based NLP APIs for scalability. Contributions from the open-source community will be encouraged through clear contribution guidelines and issue templates.
 
 In summary, this TEXT-SUMMARIZATION-TOOL not only demonstrates the practical application of advanced NLP models but also delivers a production-ready utility that streamlines the summarization workflow. By automating the extraction of essential information from large texts, the tool enhances productivity, reduces cognitive load, and empowers users to focus on critical insights rather than manual reading. Through continuous iteration and community feedback, the project aims to evolve into a versatile platform for text summarization across multiple domains.
+
+## Program Run Procedure
+
+1. **Clone the repository**  
+   ```bash
+   git clone <your-github-repo-url>
+   cd TEXT-SUMMARIZATION-TOOL
+   ```
+2. **Create a Python virtual environment**  
+   ```bash
+   python -m venv venv            # Create venv
+   source venv/bin/activate       # On Unix/Mac
+   venv\Scripts\activate        # On Windows
+   ```
+3. **Install dependencies**  
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Run the summarizer**  
+   ```bash
+   python summarizer.py --input_file "path/to/article.txt" [--max_length N --min_length M]
+   ```
+5. **Example**  
+   ```bash
+   python summarizer.py --input_file article.txt --max_length 100 --min_length 20
+   ```
