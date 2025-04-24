@@ -26,7 +26,7 @@ In summary, this TEXT-SUMMARIZATION-TOOL not only demonstrates the practical app
 
 1. **Clone the repository**  
    ```bash
-   git clone <your-github-repo-url>
+   git clone https://github.com/digantk31/TEXT-SUMMARIZATION-TOOL.git
    cd TEXT-SUMMARIZATION-TOOL
    ```
 2. **Create a Python virtual environment**  
