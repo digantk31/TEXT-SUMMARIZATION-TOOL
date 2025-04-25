@@ -11,6 +11,8 @@
 *Summary Output*
 ![Summary_Output.png](https://github.com/digantk31/TEXT-SUMMARIZATION-TOOL/blob/main/project%20images/02-summary_output.png)
 
+---
+
 ## Description of the Task
 
 The TEXT-SUMMARIZATION-TOOL project is designed to address the growing need for efficient and accurate condensation of lengthy textual content into concise, coherent summaries. In today’s information-rich environment, readers are often overwhelmed by the sheer volume of articles, reports, and documents available online. Manually scanning through large bodies of text to extract key insights is time-consuming and prone to human error. The primary objective of this internship task is to develop a reusable, command-line Python application that employs state-of-the-art Natural Language Processing (NLP) techniques to automatically generate summaries of arbitrary input text.
