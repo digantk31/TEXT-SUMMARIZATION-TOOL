@@ -5,6 +5,11 @@
 *INTERN ID*: CODF51  
 *DOMAIN*: Artificial Intelligence Markup Language  
 *DURATION*: 4 WEEKS  
+*Project Images*:
+*Article*
+![Article.png](https://github.com/digantk31/TEXT-SUMMARIZATION-TOOL/blob/main/project%20images/01-article.png)
+*Summary Output*
+![Summary_Output.png](https://github.com/digantk31/TEXT-SUMMARIZATION-TOOL/blob/main/project%20images/02-summary_output.png)
 
 ## Description of the Task
 
