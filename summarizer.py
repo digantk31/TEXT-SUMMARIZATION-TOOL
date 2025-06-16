@@ -1,4 +1,4 @@
-# python summarizer.py --input_file "C:\Users\digan\Downloads\Intership\CodeTech\Task-1\article.txt"
+# python summarizer.py --input_file "**PATH**"
 # python summarizer.py --input_file "…\article.txt" --max_length 100 --min_length 20
 
 
